@@ -1,0 +1,2 @@
+#!/usr/bin/python
+n = float(raw_input('Valor de n: '))
